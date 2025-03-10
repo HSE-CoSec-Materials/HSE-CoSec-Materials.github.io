@@ -3,8 +3,6 @@ description: "Archive for notes"
 baseurl: ""
 url: "https://HSE-CoSec-Materials.github.io"
 
-remote_theme: "mmistakes/minimal-mistakes"
-
 header_pages:
   - README.md
 
