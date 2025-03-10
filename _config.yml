@@ -8,11 +8,6 @@ remote_theme: "mmistakes/minimal-mistakes"
 header_pages:
   - README.md
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-feed
-
 github:
   repository_url: "https://github.com/HSE-CoSec-Materials/HSE-CoSec-Materials.github.io"
 
