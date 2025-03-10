@@ -1,7 +1,7 @@
-title: "HSE-CoSec-Materials
+title: "HSE-CoSec-Materials"
 description: "Archive for notes"
 baseurl: "" # Укажите, если сайт размещён не в корне репозитория
-url: "https://HSE-CoSec-Materials.github.io
+url: "https://HSE-CoSec-Materials.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -11,7 +11,7 @@ header_pages:
 collections:
   reports:
     output: true
-    permalink: /reports/:path/
+    permalink: "/reports/:path/"
 
 defaults:
   - scope:
@@ -35,4 +35,5 @@ markdown: kramdown
 highlighter: rouge
 
 # Вывод PDF в виде списка
-include: ["Material-Vault"]
+include:
+  - "Material-Vault"
