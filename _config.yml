@@ -3,9 +3,6 @@ description: "Archive for notes"
 baseurl: ""
 url: "https://HSE-CoSec-Materials.github.io"
 
-header_pages:
-  - README.md
-
 github:
   repository_url: "https://github.com/HSE-CoSec-Materials/HSE-CoSec-Materials.github.io"
 
